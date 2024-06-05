@@ -1,7 +1,7 @@
 const ArticleListPage = () => {
     return (
 
-    <h1>This is the Home Page</h1>
+    <h1>This is the Article List Page</h1>
     )
 }
 export default ArticleListPage;

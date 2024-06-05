@@ -1,7 +1,7 @@
 const NotFoundPage = () => {
     return (
 
-    <h1>This is the Home Page</h1>
+    <h1>This is the Not Found Page</h1>
     )
 }
 export default NotFoundPage;
